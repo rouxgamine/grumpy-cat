@@ -12,6 +12,17 @@ header {
     margin-bottom: 30px;
 }
 
+nav {
+    background-color: rgb(145, 57, 227);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
 img {
     width: 250px;
     border-radius: 13px;
@@ -37,7 +48,11 @@ section {
 
 h1 {
 
-    color: hsl(207, 97%, 36%);
+    color: rgb(79, 63, 122);
+}
+
+h2 {
+    color:blueviolet;
 }
 
 h3 {
